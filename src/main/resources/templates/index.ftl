@@ -6,10 +6,10 @@
         <title>新闻</title>
         <meta name="keywords" content="" />
         <meta name="description" content="主题的个人博客模板，优雅、稳重、大气,低调。" />
-        <link href="css/base.css" rel="stylesheet">
-        <link href="css/index.css" rel="stylesheet">
-        <script src="js/modernizr.js"></script>
-        <script src="js/silder.js"></script>
+        <link href="../css/base.css" rel="stylesheet">
+        <link href="../css/index.css" rel="stylesheet">
+        <script src="../js/modernizr.js"></script>
+        <script src="../js/silder.js"></script>
     </head>
 <body>
 <header>
@@ -53,7 +53,16 @@
             <a title="/" href="/" target="_blank" class="readmore">阅读全文>></a>
         </ul>
         <p class="dateview"><span>2013-11-04</span><span>作者：杨青</span><span>个人博客：[<a href="/news/life/">程序人生</a>]</span></p>
+
+        <div class="page">
+            <a title="Total record"><b>&lt;</b></a>
+            <b>1</b>
+            <a href="/news/s/index_2.html">2</a>
+            <a href="/news/s/index_2.html">&gt;</a>
+        </div>
+
     </div>
+
 </article>
 </body>
 </html>

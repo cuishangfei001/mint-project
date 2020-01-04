@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class NewsController {
-    @RequestMapping("/")
+    @RequestMapping("/index")
     public String home(){
-        return "template";
+        return "index";
     }
 }
